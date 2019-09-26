@@ -1,5 +1,7 @@
 # Coastal ML
-Coastal applications of machine learning.
+A curated list of coastal applications of machine learning.
+
+This repository is available as an easy-to-use [website](https://coastalml.github.io/)!
 
 # Introduction
 The Coastal ML organization aims to...
